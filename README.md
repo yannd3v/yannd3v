@@ -1,5 +1,5 @@
 ## Olá! Meu nome é Yann 👋
-Eu sou estudante de Engenharia de Software na Universidade Católica do Salvador. Programar é a minha paixão, utilizo Java e Spring Boot para aplicações web. Estou sempre aprendendo e acredito que a constância é fundamental para a o crescimento. Sejam bem vindos!
+Eu sou estudante de Engenharia de Software na Universidade Católica do Salvador. Programar é a minha paixão e eu estou sempre aprendendo, pois acredito que a constância é fundamental para a o crescimento. Sejam bem vindos!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yannd3v&show_icons=true&theme=merko)
 
