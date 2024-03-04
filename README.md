@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Yann 👋
-Eu sou estudante de Engenharia de Software na Universidade Católica do Salvador. Programar é a minha paixão e eu estou sempre aprendendo, pois acredito que a constância é fundamental para a o crescimento. Sejam bem vindos!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannd3v&hide_progress=true)
+# Sobre mim
+Eu sou estudante de Engenharia de Software na Universidade Católica do Salvador. Programar é a minha paixão e eu estou sempre aprendendo, pois acredito que a constância é fundamental para a o crescimento. Sejam bem vindos!
 
 ### Hard skills 🔧
 
