@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Yann 👋
 
-# Sobre mim
+### Sobre mim
 Eu sou estudante de Engenharia de Software na Universidade Católica do Salvador. Programar é a minha paixão e eu estou sempre aprendendo, pois acredito que a constância é fundamental para a o crescimento. Sejam bem vindos!
 
 ### Hard skills 🔧
